@@ -1,0 +1,6 @@
+{
+  "name": "National Student Laptop Scheme",
+  "description": "An interactive landing page representing a national student laptop empowerment program, built as a playful prank with zero data collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
